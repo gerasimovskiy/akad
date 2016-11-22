@@ -374,7 +374,10 @@ input {
 	.team-second-line,
 	.team-three-line {
 		margin: 0;
-		height: 185px;
+		height: 673px;
+	}
+	.team-1-4 {
+		width: 50%;
 	}
 	.newsletter {
 		padding: 20px;
@@ -382,4 +385,5 @@ input {
 	.newsletter-left__text {
 		font-size: 16px;
 	}
+	
 }
